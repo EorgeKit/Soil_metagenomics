@@ -1,4 +1,4 @@
-#Soil_metagenomics
+# Soil_metagenomics
 
 This repo contains different scripts that were written for the purpose of analysisng soil metagenomics data. 
 Two challenges were associated with this project:
